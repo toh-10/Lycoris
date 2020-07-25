@@ -1,0 +1,5 @@
+*.o
+*.out
+render.bmp
+.DS_Store
+./lycoris
